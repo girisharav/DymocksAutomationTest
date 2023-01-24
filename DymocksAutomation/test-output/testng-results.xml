@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T13:33:10 AEDT" name="Suite" finished-at="2023-01-24T13:34:20 AEDT" duration-ms="69330">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T13:33:10 AEDT" name="Test1" finished-at="2023-01-24T13:34:20 AEDT" duration-ms="69330">
+      <class name="earlyReadersAddtoCart.HomePage">
+        <test-method is-config="true" signature="BS()[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:33:10 AEDT" name="BS" finished-at="2023-01-24T13:33:10 AEDT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:33:10 AEDT" name="BT" finished-at="2023-01-24T13:33:10 AEDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:33:11 AEDT" name="BC" finished-at="2023-01-24T13:33:23 AEDT" duration-ms="12411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:33:23 AEDT" name="BM" finished-at="2023-01-24T13:33:38 AEDT" duration-ms="14524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="HomePageActions()[pri:1, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:33:38 AEDT" name="HomePageActions" finished-at="2023-01-24T13:34:19 AEDT" duration-ms="41302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageActions -->
+        <test-method is-config="true" signature="AM(org.testng.ITestResult)[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:34:19 AEDT" name="AM" finished-at="2023-01-24T13:34:19 AEDT" duration-ms="372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageActions status=SUCCESS method=HomePage.HomePageActions()[pri:1, instance:earlyReadersAddtoCart.HomePage@5c5eefef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:34:19 AEDT" name="AC" finished-at="2023-01-24T13:34:20 AEDT" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:34:20 AEDT" name="AT" finished-at="2023-01-24T13:34:20 AEDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:earlyReadersAddtoCart.HomePage@5c5eefef]" started-at="2023-01-24T13:34:20 AEDT" name="AS" finished-at="2023-01-24T13:34:20 AEDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- earlyReadersAddtoCart.HomePage -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
